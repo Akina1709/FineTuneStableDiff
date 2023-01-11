@@ -20,6 +20,7 @@ The pretrained model for Stable Diffusion version 1.5 will be automatically down
 The results generated from Stable Diffusion before and after fine-tuning process can be downloaded in:
 
 [Before fine-tuning results](https://drive.google.com/file/d/1YPn_s9sWGaB2GMupTtvkFVyYh8Z4YTfB/view?usp=sharing)
+
 [After fine-tuning results](https://drive.google.com/file/d/1fm2UWNlbuwZ4BVtpr1-viX10fp3Q7EVL/view?usp=sharing)
 
 To evaluate the FID score, we need to download the results above, change the link in the code and run cmd: `python fid.py`
